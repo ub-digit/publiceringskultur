@@ -4,7 +4,9 @@
       <div class="col-xs-12">
         <div>
           <div class="logo {{i18n.locale}}">
-            <a href="http://www.gu.se"></a>
+            <a href="http://www.gu.se">
+              <img class="printLogo" src="{{t "header.logoPrintUrl"}}" />
+            </a>
           </div>
           <div class="headers">
             <div class="level1">
@@ -13,7 +15,7 @@
           </div>
           <div class="gu-header-links pull-right">
             <ul>
-              <li><a {{action 'toggleLang'}} title="To the English version of this page" href="#" >{{t "header.lang_link"}}</a></li>
+              <li><a {{action 'toggleLang'}} href="javascript.void();">{{t "header.lang_link"}}</a></li>
             </ul>
           </div>
         </div>

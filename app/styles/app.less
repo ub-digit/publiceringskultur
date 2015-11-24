@@ -5,6 +5,12 @@
 @import "gu-footer.less";
 @import "type.less";
 
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+}
+
 .selector-row {
   padding-top: 30px;
   padding-bottom: 30px;

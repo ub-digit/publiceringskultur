@@ -13,7 +13,7 @@ export default {
     "level1": "Gothenburg University Library",
     "level2": "Publishing culture",
     "lang_link": "På svenska",
-    "logoPrintUrl": "/gu_logo_en_high.png"
+    "logoPrintUrl": "/images/gu_logo_en_high.png"
   },
   "footer": {
     "copyright": "Gothenburg University Library",

@@ -13,11 +13,11 @@ export default {
     "level1": "Göteborgs Universitetsbibliotek",
     "level2": "Publiceringskultur",
     "lang_link": "In English",
-    "logoPrintUrl": "http://gu.se/digitalAssets/1498/1498141_ny_logo_sv_high.png"
+    "logoPrintUrl": "/images/gu_logo_sv_high.png"
   },
   "footer": {
     "copyright": "Göteborgs universitetsbibliotek",
-    "websiteLink": "Bilbiotekets webbplats"
+    "websiteLink": "Bibliotekets webbplats"
   },
   "top": {
     "heading": "Publiceringskultur vid Göteborgs universitet",
