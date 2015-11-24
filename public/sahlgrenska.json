@@ -1,0 +1,105 @@
+{
+  "publications": [
+    {
+      "name_sv": "Sahlgrenska akademin",
+      "name_en": "Sahlgrenska Academy",
+      "data": [1933,1927,2057,2032,2265,2249,2206,2122,2317,2385],
+      "color": "#F2CDD6"
+    }
+  ],
+  "publicationTypes": [
+    {
+      "name_sv": "Artiklar",
+      "name_en": "Articles",
+      "data": [1547,1526,1610,1428,1650,1673,1767,1615,1884,1919],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Böcker",
+      "name_en": "Books",
+      "data": [10,4,6,6,9,5,5,9,9,3],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "Kapitel",
+      "name_en": "Chapters",
+      "data": [75,70,72,109,123,92,62,93,61,55],
+      "color": "#9B2743"
+    },
+    {
+      "name_sv": "Övriga publikationstyper",
+      "name_en": "Other publication types",
+      "data": [301,327,369,489,483,479,372,405,363,408],
+      "color": "#FE5000"
+    }
+  ],
+  "languages": [
+    {
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+  "data": [6,6,6,8,9,7,6,6,4,5],
+        "color": "#004B89"
+    },
+    {
+      "name_sv": "Engelska",
+      "name_en": "English",
+      "data": [93,93,93,91,91,92,94,93,95,95],
+      "color": "#7A99AC"
+    }
+  ],
+  "authors": [
+    {
+      "name_sv": "Författare/publikation",
+      "name_en": "Authors/publication",
+      "data": [5.0,5.0,5.5,5.1,5.3,6.4,6.3,6.6,6.5,7.1],
+      "color": "#004B89"
+    }
+  ],
+  "cooperations": [
+    {
+      "name_sv": "Andra fakulteter",
+      "name_en": "Other schools",
+      "data": [4,4,4,6,6,5,6,7,8,9],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Externa",
+      "name_en": "External",
+      "data": [59,61,61,62,60,64,64,65,70,72],
+      "color": "#7A99AC"
+    }
+  ],
+  "age": [
+    {
+      "name_sv": " <30",
+      "name_en": " <30",
+      "data": [171,188,178,139,144,98,91,79,51,56],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "30-39",
+      "name_en": "30-39",
+      "data": [700,685,760,709,835,751,788,830,746,710],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "40-49",
+      "name_en": "40-49",
+      "data": [1105,1081,1164,980,1191,1104,1185,1058,1255,1258],
+      "color": "#9B2743"
+    },
+    {
+      "name_sv": "50-59",
+      "name_en": "50-59",
+      "data": [1502,1538,1627,1491,1621,1520,1433,1384,1500,1472],
+      "color": "#FE5000"
+    },
+    {
+      "name_sv": "60+",
+      "name_en": "60+",
+      "data": [659,732,862,913,1048,1095,1107,1189,1327,1371],
+      "color": "#53682B"
+    }
+  ]
+
+}

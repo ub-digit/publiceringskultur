@@ -1,0 +1,112 @@
+{
+  "publications": [
+    {
+      "name_sv": "Samhällsvetenskapliga fakulteten",
+      "name_en": "Faculty of Social Sciences",
+      "data": [965,1036,1130,1095,1175,1303,1382,1099,1243,1144],
+      "color": "#9B2743"
+    }
+  ],
+  "publicationTypes": [
+    {
+      "name_sv": "Artiklar",
+      "name_en": "Articles",
+      "data": [171,173,174,190,220,244,288,252,327,345],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Böcker",
+      "name_en": "Books",
+      "data": [28,33,24,26,26,33,27,28,33,24],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "Kapitel",
+      "name_en": "Chapters",
+      "data": [241,220,265,204,184,288,242,258,225,206],
+      "color": "#9B2743"
+    },
+
+    {
+      "name_sv": "Övriga publikationstyper",
+      "name_en": "Other publication types",
+      "data": [525,610,667,675,745,738,825,561,658,569],
+      "color": "#FE5000"
+    }
+  ],
+  "languages": [
+    {
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+  "data": [42,47,45,42,45,47,44,37,32,27],
+        "color": "#004B89"
+    },
+    {
+      "name_sv": "Engelska",
+      "name_en": "English",
+      "data": [55,51,51,54,53,51,55,61,67,71],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "Övriga språk",
+      "name_en": "Other languages",
+      "data": [3,3,4,3,2,2,1,2,1,2],
+      "color": "#9B2743"
+    }
+  ],
+  "authors": [
+    {
+      "name_sv": "Författare/publikation",
+      "name_en": "Authors/publication",
+      "data": [1.8,1.7,1.7,1.7,1.8,1.8,1.9,2.0,2.1,2.1],
+      "color": "#004B89"
+    }
+  ],
+  "cooperations": [
+    {
+      "name_sv": "Andra fakulteter",
+      "name_en": "Other schools",
+      "data": [7,7,9,8,10,12,13,15,13,16],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Externa",
+      "name_en": "External",
+      "data": [19,20,21,18,19,20,25,25,25,28],
+      "color": "#7A99AC"
+    }
+  ],
+  "age": [
+    {
+      "name_sv": " <30",
+      "name_en": " <30",
+      "data": [78,64,48,59,50,38,46,51,65,51],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "30-39",
+      "name_en": "30-39",
+      "data": [404,302,361,427,335,354,400,340,370,360],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "40-49",
+      "name_en": "40-49",
+      "data": [268,402,380,385,552,597,653,425,664,488],
+      "color": "#9B2743"
+    },
+    {
+      "name_sv": "50-59",
+      "name_en": "50-59",
+      "data": [335,303,407,279,272,289,298,244,261,246],
+      "color": "#FE5000"
+    },
+    {
+      "name_sv": "60+",
+      "name_en": "60+",
+      "data": [161,223,200,288,277,298,398,310,275,296],
+      "color": "#53682B"
+    }
+  ]
+
+}

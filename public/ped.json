@@ -1,0 +1,118 @@
+{
+  "publications": [
+    {
+      "name_sv": "Utbildningsvetenskapliga fakulteten",
+      "name_en": "Faculty of Education",
+      "data": [342,430,403,473,479,465,577,512,639,667],
+      "color": "#FE5000"
+    }
+  ],
+  "publicationTypes": [
+    {
+      "name_sv": "Artiklar",
+      "name_en": "Articles",
+      "data": [56,65,51,70,75,99,125,119,160,196],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Böcker",
+      "name_en": "Books",
+      "data": [6,18,15,20,11,17,18,15,20,16],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "Kapitel",
+      "name_en": "Chapters",
+      "data": [70,98,90,77,120,69,124,90,115,126],
+      "color": "#9B2743"
+    },
+    {
+      "name_sv": "Konferensbidrag, refereegranskat",
+      "name_en": "Conference paper, peer-reviewed",
+      "data": [65,61,69,121,95,87,104,102,54,19],
+      "color": "#53682B"
+    },
+    {
+      "name_sv": "Övriga publikationstyper",
+      "name_en": "Other publication types",
+      "data": [145,188,178,185,178,193,206,186,290,310],
+      "color": "#FE5000"
+    }
+  ],
+
+  "languages": [
+    {
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "data": [46,50,44,38,48,36,39,35,34,30],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Engelska",
+      "name_en": "English",
+      "data": [50,47,53,60,50,61,59,63,63,68],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "Övriga språk",
+      "name_en": "Other languages",
+      "data": [4,3,2,2,2,3,2,3,3,1],
+      "color": "#9B2743"
+    }
+  ],
+  "authors": [
+    {
+      "name_sv": "Författare/publikation",
+      "name_en": "Authors/publication",
+      "data": [1.7,1.7,1.9,1.8,1.7,2.0,1.9,2.1,2.1,2.3],
+      "color": "#004B89"
+    }
+  ],
+  "cooperations": [
+    {
+      "name_sv": "Andra fakulteter",
+      "name_en": "Other schools",
+      "data": [9,11,17,13,18,18,19,19,14,14],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Externa",
+      "name_en": "External",
+      "data": [20,21,21,20,23,26,25,29,31,36],
+      "color": "#7A99AC"
+    }
+  ],
+  "age": [
+    {
+      "name_sv": "<30",
+      "name_en": "<30",
+      "data": [13,9,23,15,5,2,2,6,7,11],
+      "color":"#004B89"
+    },
+    {
+      "name_sv": "30-39",
+      "name_en": "30-39",
+      "data": [30,60,91,125,149,93,141,107,125,130],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "40-49",
+      "name_en": "40-49",
+      "data": [94,107,93,103,121,144,177,153,190,245],
+      "color": "#9B2743"
+    },
+    {
+      "name_sv": "50-59",
+      "name_en": "50-59",
+      "data": [213,232,216,235,190,213,226,201,275,250],
+      "color": "#FE5000"
+    },
+    {
+      "name_sv": "60+",
+      "name_en": "60+",
+      "data": [84,150,140,191,239,249,217,205,286,252],
+      "color": "#53682B"
+    }
+  ]
+
+}

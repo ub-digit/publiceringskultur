@@ -1,0 +1,71 @@
+<div class="row">
+  <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <h2>{{t "charts.publications.heading"}}</h2>
+    <p>{{t "charts.publications.body"}}</p>
+  </div>
+</div>
+<div class="row chart-row">
+  <div class="col-sm-10 col-sm-offset-1">
+    {{publications-chart content=model.chart.publications}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <h2>{{t "charts.publicationTypes.heading"}}</h2>
+    <p>{{t "charts.publicationTypes.body"}}</p>
+  </div>
+</div>
+<div class="row chart-row">
+  <div class="col-sm-10 col-sm-offset-1">
+    {{publication-type-chart content=model.chart.publicationTypes}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <h2>{{t "charts.languages.heading"}}</h2>
+    <p>{{t "charts.languages.body"}}</p>
+  </div>
+</div>
+<div class="row chart-row">
+  <div class="col-sm-10 col-sm-offset-1">
+    {{language-chart content=model.chart.languages}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <h2>{{t "charts.authors.heading"}}</h2>
+    <p>{{t "charts.authors.body"}}</p>
+  </div>
+</div>
+<div class="row chart-row">
+  <div class="col-sm-10 col-sm-offset-1">
+    {{authors-chart content=model.chart.authors}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <h2>{{t "charts.cooperations.heading"}}</h2>
+    <p>{{t "charts.cooperations.body"}}</p>
+  </div>
+</div>
+<div class="row chart-row">
+  <div class="col-sm-10 col-sm-offset-1">
+    {{cooperations-chart content=model.chart.cooperations}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <h2>{{t "charts.age.heading"}}</h2>
+    <p>{{t "charts.age.body"}}</p>
+  </div>
+</div>
+<div class="row chart-row">
+  <div class="col-sm-10 col-sm-offset-1">
+    {{age-chart content=model.chart.age}}
+  </div>
+</div>

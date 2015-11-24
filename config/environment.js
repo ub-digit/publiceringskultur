@@ -2,10 +2,16 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'asdf',
+    modulePrefix: 'BibmetVis',
     environment: environment,
     baseURL: '/',
-    locationType: 'auto',
+    locationType: 'hash',
+    googleFonts: [
+      'Open+Sans:400'
+    ],
+    i18n: {
+      defaultLocale: 'sv'
+    },
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
@@ -25,6 +31,9 @@ module.exports = function(environment) {
     // ENV.APP.LOG_TRANSITIONS = true;
     // ENV.APP.LOG_TRANSITIONS_INTERNAL = true;
     // ENV.APP.LOG_VIEW_LOOKUPS = true;
+    ENV.contentSecurityPolicyHeader = 'Disabled-Content-Security-Policy';
+    ENV.APP.serviceURL = '/';
+    ENV.APP.useCache = false;
   }
 
   if (environment === 'test') {
@@ -40,7 +49,7 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-
+    ENV.APP.serviceURL = '/';
   }
 
   return ENV;

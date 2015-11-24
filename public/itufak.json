@@ -1,0 +1,117 @@
+{
+  "publications": [
+    {
+      "name_sv": "IT-fakulteten",
+      "name_en": "IT Faculty",
+      "data": [98,	90,	103,	103,	82,	90,	111,	171,	166,	191],
+      "color": "#53682B"
+    }
+  ],
+  "publicationTypes": [
+    {
+      "name_sv": "Artiklar",
+      "name_en": "Articles",
+      "data": [29,	22,	19,	28,	24,	36,	37,	20,	41,	33],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Böcker",
+      "name_en": "Books",
+      "data": [0,	0,	3,	0,	0,	0,	4,	2,	1,	1],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "Kapitel",
+      "name_en": "Chapters",
+      "data": [11,	8,	15,	8,	10,	2,	8,	23,	20,	18],
+      "color": "#9B2743"
+    },
+    {
+      "name_sv": "Konferensbidrag, refereegranskat",
+      "name_en": "Conference paper, peer-reviewed",
+      "data": [38,	37,	46,	48,	34,	38,	39,	86,	67,	82],
+      "color": "#53682B"
+    },
+    {
+      "name_sv": "Övriga publikationstyper",
+      "name_en": "Other publication types",
+      "data": [20,	23,	20,	19,	14,	14,	23,	40,	37,	57],
+      "color": "#FE5000"
+    }
+  ],
+  "languages": [
+    {
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+  "data": [8,	8,	4,	5,	9,	6,	12,	12,	5,	4],
+        "color": "#004B89"
+    },
+    {
+      "name_sv": "Engelska",
+      "name_en": "English",
+      "data": [91,	92,	96,	93,	91,	94,	88,	87,	95,	96],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "Övriga språk",
+      "name_en": "Other languages",
+      "data": [1,	0,	0,	2,	0,	0,	0,	1,	0,	0],
+      "color": "#9B2743"
+    }
+  ],
+  "authors": [
+    {
+      "name_sv": "Författare/publikation",
+      "name_en": "Authors/publication",
+      "data": [2.0	, 2.3	, 2.4	, 2.3	, 2.5	, 2.4	, 2.4	, 2.4	, 3.2	, 3.2],
+      "color": "#004B89"
+    }
+  ],
+  "cooperations": [
+    {
+      "name_sv": "Andra fakulteter",
+      "name_en": "Other schools",
+      "data": [15,	24,	17,	34,	26,	20,	28,	28,	28,	27],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Externa",
+      "name_en": "External",
+      "data": [37,	44,	46,	50,	50,	58,	47,	43,	59,	67],
+      "color": "#7A99AC"
+    }
+  ],
+  "age": [
+    {
+      "name_sv": " <30",
+      "name_en": " <30",
+      "data": [15,	20,	15,	5,	5,	10,	11,	19,	21,	21],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "30-39",
+      "name_en": "30-39",
+      "data": [42,	38,	62,	54,	36,	35,	25,	54,	54,	76],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "40-49",
+      "name_en": "40-49",
+      "data": [46,	39,	32,	33,	26,	26,	46,	59,	49,	53],
+      "color": "#9B2743"
+    },
+    {
+      "name_sv": "50-59",
+      "name_en": "50-59",
+      "data": [17,	2,	6,	9,	9,	23,	22,	25,	31,	28],
+      "color": "#FE5000"
+    },
+    {
+      "name_sv": "60+",
+      "name_en": "60+",
+      "data": [0,	0,	1,	6,	11,	16,	37,	62,	41,	21],
+      "color": "#53682B"
+    }
+  ]
+
+}

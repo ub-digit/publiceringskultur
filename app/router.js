@@ -6,6 +6,7 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('faculty', { path: '/:faculty_code' });
 });
 
 export default Router;

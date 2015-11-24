@@ -1,0 +1,111 @@
+{
+  "publications": [
+    {
+      "name_sv": "Handelshögskolan",
+      "name_en": "School of Business, Economics and Law",
+      "data": [513, 561, 651, 733, 753, 725, 811, 744, 833, 729],
+      "color": "#004B89"
+    }
+  ],
+  "publicationTypes": [
+    {
+      "name_sv": "Artiklar",
+      "name_en": "Articles",
+      "data": [115,110,136,162,174,205,226,240,249,239],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Böcker",
+      "name_en": "Books",
+      "data": [15,28,18,15,26,20,24,21,33,23],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "Kapitel",
+      "name_en": "Chapters",
+      "data": [93,94,123,101,115,125,158,120,183,133],
+      "color": "#9B2743"
+    },
+    {
+      "name_sv": "Övriga publikationstyper",
+      "name_en": "Other publication types",
+      "data": [290,329,374,455,438,375,403,363,368,334],
+      "color": "#FE5000"
+    }
+  ],
+  "languages": [
+    {
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "data": [33,	33,	36,	30,	27,	25,	24,	18,	20,	17],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Engelska",
+      "name_en": "English",
+      "data": [66,	65,	64,	68,	71,	72,	74,	79,	78,	82],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "Övriga språk",
+      "name_en": "Other languages",
+      "data": [1,	2,	2,	2,	1,	2,	2,	3,	1,	1],
+      "color": "#9B2743"
+    }
+  ],
+  "authors": [
+    {
+      "name_sv": "Författare/publikation",
+      "name_en": "Authors/publication",
+      "data": [1.7,	1.7,	1.7,	1.8,	1.9,	1.8,	1.9,	2.1,	2.1,	2.3],
+      "color": "#004B89"
+    }
+  ],
+  "cooperations": [
+    {
+      "name_sv": "Andra fakulteter",
+      "name_en": "Other schools",
+      "data": [9,	10,	9,	8,	10,	15,	14,	12,	12,	13],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "Externa",
+      "name_en": "External",
+      "data": [23,	23,	24,	28,	34,	27,	36,	37,	39,	40],
+      "color": "#7A99AC"
+    }
+  ],
+  "age": [
+    {
+      "name_sv": " <30",
+      "name_en": " <30",
+      "data": [55, 28,	46,	34,	38,	34,	29,	20,	28,	17],
+      "color": "#004B89"
+    },
+    {
+      "name_sv": "30-39",
+      "name_en": "30-39",
+      "data": [192,	246,	274,	318,	343,	317,	350,	312,	297,	272],
+      "color": "#7A99AC"
+    },
+    {
+      "name_sv": "40-49",
+      "name_en": "40-49",
+      "data": [153,	177,	215,	301,	355,	377,	333,	335,	395,	319],
+      "color": "#9B2743"
+    },
+    {
+      "name_sv": "50-59",
+      "name_en": "50-59",
+      "data": [145,	161,	185,	169,	137,	127,	162,	112,	151,	156],
+      "color": "#FE5000"
+    },
+    {
+      "name_sv": "60+",
+      "name_en": "60+",
+      "data": [82,	95,	123,	148,	130,	135,	154,	183,	197,	196],
+      "color": "#53682B"
+    }
+  ]
+
+}

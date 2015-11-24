@@ -1,0 +1,35 @@
+@import "bower_components/bootstrap/less/bootstrap.less";
+@import "custom-variables.less";
+@import "gu-header.less";
+@import "gu-font.less";
+@import "type.less";
+
+.selector-row {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  .faculty-selector {
+    min-width: 100%;
+    @media (min-width: @screen-sm-min) {
+      width: 450px;
+      .btn-lg()
+    }
+  }
+}
+
+.chart-row {
+  margin-bottom: 30px;
+}
+
+
+.gu-footer {
+	background-color: #000;
+	color: #fff;
+	font-size: 12px;
+	margin-top: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	a {
+		color: #fff;
+		text-decoration: underline;
+	}
+}

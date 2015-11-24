@@ -1,0 +1,12 @@
+<div class="btn-group">
+  <button type="button" class="btn btn-primary dropdown-toggle faculty-selector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    {{t currentFacultyNameString}} <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    <li><a href="#" {{action 'gotoUniversity'}}>{{t "faculties.gu.name"}}</a></li>
+    <li role="separator" class="divider"></li>
+    {{#each faculties as |faculty|}}
+      {{faculty-selector-item id=faculty.id action="setFaculty"}}
+    {{/each}}
+  </ul>
+</div>
