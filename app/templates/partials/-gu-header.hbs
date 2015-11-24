@@ -5,7 +5,7 @@
         <div>
           <div class="logo {{i18n.locale}}">
             <a href="http://www.gu.se">
-              <img class="printLogo" src="{{t "header.logoPrintUrl"}}" />
+              <img class="visible-print-block" src="{{t "header.logoPrintUrl"}}" />
             </a>
           </div>
           <div class="headers">
@@ -13,7 +13,7 @@
               <a href="http://www.ub.gu.se">{{t "header.level1"}}</a>
             </div>
           </div>
-          <div class="gu-header-links pull-right">
+          <div class="gu-header-links pull-right hidden-print">
             <ul>
               <li><a {{action 'toggleLang'}} href="javascript.void();">{{t "header.lang_link"}}</a></li>
             </ul>
