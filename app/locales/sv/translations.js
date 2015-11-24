@@ -16,7 +16,8 @@ export default {
     "logoPrintUrl": "http://gu.se/digitalAssets/1498/1498141_ny_logo_sv_high.png"
   },
   "footer": {
-
+    "copyright": "Göteborgs universitetsbibliotek",
+    "websiteLink": "Bilbiotekets webbplats"
   },
   "top": {
     "heading": "Publiceringskultur vid Göteborgs universitet",

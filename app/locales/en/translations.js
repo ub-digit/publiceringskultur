@@ -10,10 +10,14 @@ export default {
   // "key.with.interpolation": "Text with {{anInterpolation}}"
 
   "header": {
-    "level1": "Gothenburg university library",
+    "level1": "Gothenburg University Library",
     "level2": "Publishing culture",
     "lang_link": "På svenska",
-    "logoPrintUrl": "http://gu.se/digitalAssets/1498/1498139_ny_logo_en_high.png"
+    "logoPrintUrl": "/gu_logo_en_high.png"
+  },
+  "footer": {
+    "copyright": "Gothenburg University Library",
+    "websiteLink": "Library website"
   },
   "top": {
     "heading": "Publishing patterns at the University of Gothenburg",
