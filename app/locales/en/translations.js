@@ -9,6 +9,7 @@ export default {
   //
   // "key.with.interpolation": "Text with {{anInterpolation}}"
 
+  "title": "Publishing patterns at the University of Gothenburg - Gothenburg University Library",
   "header": {
     "level1": "Gothenburg University Library",
     "level2": "Publishing culture",

@@ -12,13 +12,14 @@ export default Ember.Controller.extend({
     },
     gotoUniversity: function() {
       this.transitionToRoute('faculty', 'gu');
-      //this.transitionToRoute('university');
     },
 
     toggleLang: function() {
 
       var l = this.get('i18n.locale') === 'sv' ? 'en' : 'sv';
       this.set('i18n.locale', l);
+
+      document.title = this.get('i18n').t('title');
 
     }
   }

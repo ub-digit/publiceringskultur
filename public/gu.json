@@ -105,8 +105,8 @@
       "color": "#7A99AC"
     },
     {
-      "name_sv": "Andra fakulteter",
-      "name_en": "Other schools",
+      "name_sv": "Mellan fakulteter",
+      "name_en": "Between faculties",
       "data": [3,3,4,4,4,5,5,6,6,6],
       "color": "#004B89"
     }
