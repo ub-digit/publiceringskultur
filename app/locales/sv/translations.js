@@ -22,51 +22,51 @@ export default {
   },
   "top": {
     "heading": "Publiceringskultur vid Göteborgs universitet",
-    "intro": "Göteborgs universitet präglas av en ämnesmässig bredd. Denna bredd speglas även i publiceringskulturen vid universitetet. Här presentaras publiceringsdata ur olika aspekter för universitetet som helhet såväl som för respektive fakultet. Data är hämtad från GUP och täcker en tioårsperiod."
+    "intro": "Göteborgs universitet präglas av en ämnesmässig bredd. Denna bredd speglas även i publiceringskulturen vid universitetet. Här presenteras publiceringsdata ur olika aspekter för universitetet som helhet såväl som för respektive fakultet. Informationen är hämtad från publikationsdatabasen GUP och täcker en tioårsperiod."
   },
   "bottom": {
-    "heading": "Om den här sidan",
-    "text": "Informationen på den här sidan har tagits fram av <a href=\"http://www.ub.gu.se/%3C-en,sv%3E/publicera/bibliometri/\" target=\"_blank\">teamet för Publicering och Bibliometri</a> vid Göteborgs universitetsbibliotek. Teamet tillhandhåller bibliometrisk information till beslutsfattare på olika nivåer inom GU."
+    "heading": "Om Publiceringskultur vid Göteborgs universitet",
+    "text": "Informationen på publiceringskultur.ub.gu.se har tagits fram av <a href=\"http://www.ub.gu.se/%3C-en,sv%3E/publicera/bibliometri/\" target=\"_blank\">teamet för Publicering och Bibliometri</a> vid Göteborgs universitetsbibliotek. Teamet tillhandhåller bibliometrisk information till beslutsfattare på olika nivåer inom Göteborgs universitet."
   },
   "charts": {
     "publications": {
       "heading": "Publicering per år",
-      "body": "Antalet publikationer per år varierar stort mellan olika fakulteter och styrs i stor utsträckning av storleken på fakulteten, men även vilka publikationstyper som används.",
+      "body": "Antal publikationer per år varierar mycket mellan olika fakulteter och beror i hög grad på storleken på fakulteten. Det finns också samband mellan antal publikationer och vilka publikationstyper som används.",
       "chart": {
         "y-axis-title": "Publikationer"
       }
     },
     "publicationTypes": {
       "heading": "Publikationstyper",
-      "body": "Att studera utvecklingen av vilka publikationstyper som används ger en bild av hur en fakultet kommunicerar sin forskning, och även hur bibliometriska utvärderingar eventuellt påverkar valet av publikationstyp.",
+      "body": "Genom att studera vilka publikationstyper som använts över tid inom en fakultet, kan vi få en bild av hur fakulteten utvecklat sin forskningskommunikation och hur bibliometriska utvärderingar eventuellt påverkar valet av publikationstyp.",
       "chart": {
         "y-axis-title": "Publikationer"
       }
     },
     "languages": {
       "heading": "Språk",
-      "body": "Enligt Vision 2020 kommer universitetet 2020 präglas av globala perspektiv och attrahera ledande forskare från hela världen. Att studera förändringen i språkutveckling i publikationer kan vara ett sätt följa en utveckling mot en mer global forskarmiljö. Att publicera på engelska innebär en potentiellt större spridning av forskningen.",
+      "body": "Enligt Vision 2020 ska Göteborgs universitet präglas av globala perspektiv och attrahera ledande forskare från hela världen. Ett sätt att följa denna utveckling mot en mer global forskarmiljö är att undersöka hur fakulteternas publiceringsspråk har förändrats. När forskare publicerar sina resultat på engelska kan det innebära en potentiellt större spridning av forskningen.",
       "chart": {
         "y-axis-title": "%"
       }
     },
     "authors": {
       "heading": "Antal författare per publikation",
-      "body": "Antalet författare per publikation varierar stort mellan olika fakulteter och styrs till stor del av publikationstypen. Böcker och kapitel har vanligen få författare, medan artiklar ofta har flera. Den generella trenden är dock att antalet författare per publikation ökar.",
+      "body": "Antalet författare per publikation varierar stort mellan olika fakulteter och beror till stor del på publikationstypen. Böcker och kapitel har vanligen få författare, medan artiklar ofta har flera. Den generella trenden är dock att antalet författare per publikation ökar.",
       "chart": {
         "y-axis-title": "Författare"
       }
     },
     "cooperations": {
       "heading": "Samförfattande",
-      "body": "I Vision 2020 poängteras värdet av samverkan över ämnes- och fakultetsgränserna och även förmågan att samarbeta med andra lärosäten. Ett sätt att mäta en sådan målsättning är att studera utvecklingen av samförfattande mellan fakulteter internt och mellan universitet och externa organisationer.",
+      "body": "Vision 2020 poängterar värdet av samverkan över ämnes- och fakultetsgränserna och även förmågan att samarbeta med andra lärosäten. Ett sätt att mäta hur väl sådana samverkansmål uppfylls är att studera utvecklingen av samförfattande mellan fakulteter internt samt mellan universitet och externa organisationer.",
       "chart": {
         "y-axis-title": "%"
       }
     },
     "age": {
       "heading": "Åldersfördelning",
-      "body": "Enligt Vision 2020 vill Göteborgs universitet sträva efter att aktivt rekrytera och stödja lovande unga forskare. Att studera utvecklingen av författarnas åldersfördelning är ett sätt att mäta resulatet av denna strävan.",
+      "body": "Enligt Vision 2020 ska Göteborgs universitet sträva efter att aktivt rekrytera och stödja lovande unga forskare. Genom att titta på utvecklingen av författarnas åldersfördelning är det möjligt att mäta resultatet av denna strävan.",
       "chart": {
         "y-axis-title": "Publikationer"
       }
