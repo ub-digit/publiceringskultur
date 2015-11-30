@@ -26,7 +26,7 @@ export default {
   },
   "bottom": {
     "heading": "Om Publiceringskultur vid Göteborgs universitet",
-    "text": "Informationen på publiceringskultur.ub.gu.se har tagits fram av <a href=\"http://www.ub.gu.se/%3C-en,sv%3E/publicera/bibliometri/\" target=\"_blank\">teamet för Publicering och Bibliometri</a> vid Göteborgs universitetsbibliotek. Teamet tillhandahåller bibliometrisk information till beslutsfattare på olika nivåer inom Göteborgs universitet."
+    "text": "Informationen på publiceringskultur.ub.gu.se har tagits fram av <a href=\"http://www.ub.gu.se/%3C-en,sv%3E/publicera/bibliometri/\" target=\"_blank\">Teamet för Publicering och Bibliometri</a> vid Göteborgs universitetsbibliotek. Teamet tillhandahåller bibliometrisk information till beslutsfattare på olika nivåer inom Göteborgs universitet."
   },
   "charts": {
     "publications": {
